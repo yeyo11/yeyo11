@@ -18,3 +18,4 @@ I write each one up the day it ships, with the commands and the numbers.
 - Bluesky: [@yeyo11.bsky.social](https://bsky.app/profile/yeyo11.bsky.social)
 - Mastodon: [@yeyo11@mastodon.social](https://mastodon.social/@yeyo11)
 - LinkedIn: [José Antonio Garrido](https://www.linkedin.com/in/jagg97)
+- Support the projects: [GitHub Sponsors](https://github.com/sponsors/yeyo11)
